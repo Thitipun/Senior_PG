@@ -1,3 +1,5 @@
 เพิ่ม interface ของคนขับเวลาสมัครผิดพลาด
 
 แก้ srs trace เพราะ มี UI และ Interface ที่เปลี่ยน มายด์
+
+ทำ sequence ใหม่ กับ AD dia ใหม่
